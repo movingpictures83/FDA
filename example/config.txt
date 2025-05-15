@@ -1,0 +1,2 @@
+Prefix plugins/FDA/example/
+Plugin FDA inputfile parameters.train.txt outputfile output.rds
